@@ -50,4 +50,4 @@ A new Flutter project.
 
 # - Senkronizasyon: Ağ bağlantısı kesikken yapılan güncellemeler, bağlantı geri geldiğinde arka uca otomatik olarak senkronize edilir.
 
-# - UX (Geri Al İşlevi): Silme işleminden sonra, kullanıcıya geri alma imkanı sunan bir atıştırmalık çubuğu gösterilir.
+# - UX (Geri Al İşlevi): Silme işleminden sonra, kullanıcıya geri alma imkanı sunan bir SnackBar  çubuğu gösterilir.
