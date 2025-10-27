@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124248554442",
+    "project_id": "connectinno-firebase-task",
+    "storage_bucket": "connectinno-firebase-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124248554442:android:ecbcac8326558647d72d33",
+        "android_client_info": {
+          "package_name": "com.example.connectinno_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKlI5B-7SaQsEUg0YOIxEogj9hCeaobFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
